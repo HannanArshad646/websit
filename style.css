@@ -1,0 +1,84 @@
+.main-container {
+  background-image: url(images/background-picture.jpg);
+  height: 900;
+  width: 1465;
+   background-size: cover;
+   background-position: center;
+ 
+}
+.first-line {
+  display: flex;
+  justify-content: center;
+  font-size: 100;
+  margin-top: 200;
+  margin-right: 200;
+}
+.color {
+  color: rgb(55, 217, 163);
+  margin-top: 250;
+  margin-right: 140;
+}
+.welcome-line {
+  display: flex;
+  justify-content: center;
+}
+.main-container-1 {
+  background-image: url(images/dosre-background-picture.jpg);
+  height: 1000px;
+  background-size: cover;
+  background-position: center;
+}
+.welcome-line {
+  color: aliceblue;
+  background-color: rgba(126, 163, 72, 0.787);
+}
+.paragraph {
+  font-size: 100px;
+}
+.third-page-first-picture {
+  width: 1460px;
+  height: 1000px;
+}
+.line {
+  font-size: 50;
+  margin-left: 200;
+  margin-right: 200;
+}
+.second-pic {
+  width: 1000;
+  height: 1000;
+}
+.first-pic {
+  height: 1000;
+  width: 1000;
+}
+.third-pic {
+  width: 1000;
+  height: 1000;
+}
+.fifth-pic {
+  width: 1000;
+}
+.sixth-pic {
+  width: 1000;
+}
+.seventh-pic {
+  width: 1000;
+}
+.eighth-pic {
+  width: 1000;
+}
+.tenth-pic {
+  width: 1000;
+}
+.eleventh-pic {
+  width: 1000;
+}
+.color-veiw {
+  display: flex;
+  justify-content: center;
+  font-size: 100;
+}
+.forteenth-pic {
+  width: 1000;
+}
